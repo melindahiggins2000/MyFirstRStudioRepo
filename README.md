@@ -10,3 +10,7 @@ here is an edit from the remote repository - edited using the online interface.
 
 $\left( \sum_{i=1}^{n}{i} \right)^2 = \left( \frac{n(n-1)}{2}\right)^2 = \frac{n^2(n-1)^2}{4}$
 
+one more time in html
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\left(&space;\sum_{i=1}^{n}{i}&space;\right)^2&space;=&space;\left(&space;\frac{n(n-1)}{2}\right)^2&space;=&space;\frac{n^2(n-1)^2}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left(&space;\sum_{i=1}^{n}{i}&space;\right)^2&space;=&space;\left(&space;\frac{n(n-1)}{2}\right)^2&space;=&space;\frac{n^2(n-1)^2}{4}" title="\left( \sum_{i=1}^{n}{i} \right)^2 = \left( \frac{n(n-1)}{2}\right)^2 = \frac{n^2(n-1)^2}{4}" /></a>
+
